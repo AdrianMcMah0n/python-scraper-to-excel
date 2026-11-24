@@ -1,0 +1,12 @@
+Started: 24-Nov-2026 23:53:20
+Scope: whole catalogue
+Listing pages read: 50
+Books the site says it has: 1000
+Book links found: 1000
+Books captured: 1000
+Complete: yes
+Failed pages: 0
+Records with problems: 0
+Duplicate UPCs: 0
+HTTP requests made: 1050
+Run time (s): 225.9
